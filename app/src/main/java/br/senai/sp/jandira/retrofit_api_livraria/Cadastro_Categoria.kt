@@ -45,7 +45,7 @@ class Cadastro_Categoria : AppCompatActivity() {
                 Log.e("CREATE-CATEGORY", "STATUS: $msg")
             }
             else{
-                Log.e("CREATE-CATEGORY", "ERROR: ${result.message()}")
+                Log.e("CREATE-CATEGORY", "ERROR: ${result}")
             }
         }
     }
