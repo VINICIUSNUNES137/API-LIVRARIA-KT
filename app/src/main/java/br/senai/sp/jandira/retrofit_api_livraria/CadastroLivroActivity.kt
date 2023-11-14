@@ -50,6 +50,7 @@ class CadastroLivroActivity : AppCompatActivity() {
                 putExtra("bodyJSON", "$body")
             }
             startActivity(intent)
+            //
         }
     }
 }
