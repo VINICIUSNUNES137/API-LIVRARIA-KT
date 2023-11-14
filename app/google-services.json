@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563669565029",
+    "project_id": "upload-ds3m-vinicius-8db03",
+    "storage_bucket": "upload-ds3m-vinicius-8db03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563669565029:android:832954248de311f6a4108c",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.retrofit_api_livraria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh69PrnwtRahAmgQvPE5gZwhmA83VW6G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
